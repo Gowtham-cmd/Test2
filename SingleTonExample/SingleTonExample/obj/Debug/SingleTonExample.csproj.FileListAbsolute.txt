@@ -1,0 +1,7 @@
+c:\users\gowtham\source\repos\SingleTonExample\SingleTonExample\bin\Debug\SingleTonExample.exe.config
+c:\users\gowtham\source\repos\SingleTonExample\SingleTonExample\bin\Debug\SingleTonExample.exe
+c:\users\gowtham\source\repos\SingleTonExample\SingleTonExample\bin\Debug\SingleTonExample.pdb
+c:\users\gowtham\source\repos\SingleTonExample\SingleTonExample\obj\Debug\SingleTonExample.csprojResolveAssemblyReference.cache
+c:\users\gowtham\source\repos\SingleTonExample\SingleTonExample\obj\Debug\SingleTonExample.csproj.CoreCompileInputs.cache
+c:\users\gowtham\source\repos\SingleTonExample\SingleTonExample\obj\Debug\SingleTonExample.exe
+c:\users\gowtham\source\repos\SingleTonExample\SingleTonExample\obj\Debug\SingleTonExample.pdb
