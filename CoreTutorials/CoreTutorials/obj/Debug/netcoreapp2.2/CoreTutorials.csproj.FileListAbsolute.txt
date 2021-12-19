@@ -1,0 +1,14 @@
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\bin\Debug\netcoreapp2.2\CoreTutorials.deps.json
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\bin\Debug\netcoreapp2.2\CoreTutorials.runtimeconfig.json
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\bin\Debug\netcoreapp2.2\CoreTutorials.runtimeconfig.dev.json
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\bin\Debug\netcoreapp2.2\CoreTutorials.dll
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\bin\Debug\netcoreapp2.2\CoreTutorials.pdb
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.RazorAssemblyInfo.cache
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.RazorAssemblyInfo.cs
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.AssemblyInfoInputs.cache
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.AssemblyInfo.cs
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.RazorTargetAssemblyInfo.cache
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.dll
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.pdb
+C:\Users\Gowtham\source\repos\CoreTutorials\CoreTutorials\obj\Debug\netcoreapp2.2\CoreTutorials.csprojResolveAssemblyReference.cache
